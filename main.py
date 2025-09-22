@@ -29,7 +29,7 @@ class CuisineBinarizer(BaseEstimator, TransformerMixin):
 # -------------------------------
 # Load the pipeline and dataset
 # -------------------------------
-MODEL_PATH = 'Model/restaurant_rating_model (1).pkl'
+MODEL_PATH = 'Model/restaurant_rating_model.pkl'
 DATA_PATH = 'Data/RestaurantData.csv'
 
 try:
